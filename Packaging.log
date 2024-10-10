@@ -1,0 +1,600 @@
+2024-10-10 18:58:02 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x335597a70; archive(resolved)="<IDEArchive: 0x60000db0db90>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x335597a70; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x34012aac0; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x331561be0; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x146676c60; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1467735b0; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x146761580; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x160270270; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x16026dc80; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x16027fe40; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002ef4f80; teamID='94P33WPNF3', teamName='Eugene Baker', teamType='Individual', username='ebaker80@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x160261710; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="(null)">
+	<IDEDistributionContext: 0x14666b690; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="(null)">
+	<IDEDistributionContext: 0x1466735c0; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="(null)">
+	<IDEDistributionContext: 0x16027cf70; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x6000033f4ed0>", team="(null)">
+	<IDEDistributionContext: 0x32770ffb0; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x160160700; archive = "<IDEArchive: 0x60000db0db90>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x335597a70>
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionCopyItemStep
+2024-10-10 18:58:02 +0000  Running /usr/bin/ditto '-V' '/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app' '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app'
+2024-10-10 18:58:02 +0000  >>> Copying /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app 
+2024-10-10 18:58:02 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  17395 bytes for ./_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./App ... 
+2024-10-10 18:58:02 +0000  113056 bytes for ./App
+2024-10-10 18:58:02 +0000  copying file ./AppIcon60x60@2x.png ... 
+2024-10-10 18:58:02 +0000  21705 bytes for ./AppIcon60x60@2x.png
+2024-10-10 18:58:02 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-10-10 18:58:02 +0000  858 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-10-10 18:58:02 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2024-10-10 18:58:02 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-snD-IY-ifK.nib ... 
+2024-10-10 18:58:02 +0000  1280 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-snD-IY-ifK.nib
+2024-10-10 18:58:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-10-10 18:58:02 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-10-10 18:58:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-10-10 18:58:02 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./config.xml ... 
+2024-10-10 18:58:02 +0000  185 bytes for ./config.xml
+2024-10-10 18:58:02 +0000  copying file ./public/index.html ... 
+2024-10-10 18:58:02 +0000  2334 bytes for ./public/index.html
+2024-10-10 18:58:02 +0000  copying file ./public/cordova.js ... 
+2024-10-10 18:58:02 +0000  0 bytes for ./public/cordova.js
+2024-10-10 18:58:02 +0000  copying file ./public/favicon.png ... 
+2024-10-10 18:58:02 +0000  930 bytes for ./public/favicon.png
+2024-10-10 18:58:02 +0000  copying file ./public/manifest.json ... 
+2024-10-10 18:58:02 +0000  438 bytes for ./public/manifest.json
+2024-10-10 18:58:02 +0000  copying file ./public/cordova_plugins.js ... 
+2024-10-10 18:58:02 +0000  0 bytes for ./public/cordova_plugins.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/md.transition-CTBbyNpc.js ... 
+2024-10-10 18:58:02 +0000  1070 bytes for ./public/assets/md.transition-CTBbyNpc.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/swipe-back-legacy-BYk7MoxZ.js ... 
+2024-10-10 18:58:02 +0000  6610 bytes for ./public/assets/swipe-back-legacy-BYk7MoxZ.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/input-shims-legacy-BypjDZpX.js ... 
+2024-10-10 18:58:02 +0000  4729 bytes for ./public/assets/input-shims-legacy-BypjDZpX.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/keyboard2-legacy-DKa9kHlj.js ... 
+2024-10-10 18:58:02 +0000  1404 bytes for ./public/assets/keyboard2-legacy-DKa9kHlj.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/index-legacy-DdL1hqQB.js ... 
+2024-10-10 18:58:02 +0000  371707 bytes for ./public/assets/index-legacy-DdL1hqQB.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/ios.transition-legacy-CxqLf8IJ.js ... 
+2024-10-10 18:58:02 +0000  10639 bytes for ./public/assets/ios.transition-legacy-CxqLf8IJ.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/index-D8OKBhEY.js ... 
+2024-10-10 18:58:02 +0000  355580 bytes for ./public/assets/index-D8OKBhEY.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/keyboard2--n6f3Tzq.js ... 
+2024-10-10 18:58:02 +0000  1279 bytes for ./public/assets/keyboard2--n6f3Tzq.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/status-tap-legacy-B2TkQ8mC.js ... 
+2024-10-10 18:58:02 +0000  599 bytes for ./public/assets/status-tap-legacy-B2TkQ8mC.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/focus-visible-legacy-CdO5cX4I.js ... 
+2024-10-10 18:58:02 +0000  1092 bytes for ./public/assets/focus-visible-legacy-CdO5cX4I.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/index-gkcoDwAc.css ... 
+2024-10-10 18:58:02 +0000  29631 bytes for ./public/assets/index-gkcoDwAc.css
+2024-10-10 18:58:02 +0000  copying file ./public/assets/index9-D97Hwhnm.js ... 
+2024-10-10 18:58:02 +0000  1627 bytes for ./public/assets/index9-D97Hwhnm.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/polyfills-legacy-AYrcWy0U.js ... 
+2024-10-10 18:58:02 +0000  52169 bytes for ./public/assets/polyfills-legacy-AYrcWy0U.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/ios.transition-Cd8VdBPO.js ... 
+2024-10-10 18:58:02 +0000  11207 bytes for ./public/assets/ios.transition-Cd8VdBPO.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/input-shims-kkUWtSfW.js ... 
+2024-10-10 18:58:02 +0000  4812 bytes for ./public/assets/input-shims-kkUWtSfW.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/md.transition-legacy-BjfG-WmY.js ... 
+2024-10-10 18:58:02 +0000  1132 bytes for ./public/assets/md.transition-legacy-BjfG-WmY.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/index9-legacy-kbzIab5_.js ... 
+2024-10-10 18:58:02 +0000  1735 bytes for ./public/assets/index9-legacy-kbzIab5_.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/swipe-back-G6AQEQka.js ... 
+2024-10-10 18:58:02 +0000  6676 bytes for ./public/assets/swipe-back-G6AQEQka.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/status-tap-BrPHcasP.js ... 
+2024-10-10 18:58:02 +0000  480 bytes for ./public/assets/status-tap-BrPHcasP.js
+2024-10-10 18:58:02 +0000  copying file ./public/assets/focus-visible-supuXXMI.js ... 
+2024-10-10 18:58:02 +0000  994 bytes for ./public/assets/focus-visible-supuXXMI.js
+2024-10-10 18:58:02 +0000  copying file ./Assets.car ... 
+2024-10-10 18:58:02 +0000  4567983 bytes for ./Assets.car
+2024-10-10 18:58:02 +0000  copying file ./logo.png ... 
+2024-10-10 18:58:02 +0000  849526 bytes for ./logo.png
+2024-10-10 18:58:02 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2024-10-10 18:58:02 +0000  32705 bytes for ./AppIcon76x76@2x~ipad.png
+2024-10-10 18:58:02 +0000  copying file ./capacitor.config.json ... 
+2024-10-10 18:58:02 +0000  343 bytes for ./capacitor.config.json
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Capacitor.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  2252 bytes for ./Frameworks/Capacitor.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Capacitor.framework/native-bridge.js ... 
+2024-10-10 18:58:02 +0000  50668 bytes for ./Frameworks/Capacitor.framework/native-bridge.js
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Capacitor.framework/Capacitor ... 
+2024-10-10 18:58:02 +0000  1420912 bytes for ./Frameworks/Capacitor.framework/Capacitor
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Capacitor.framework/PrivacyInfo.xcprivacy ... 
+2024-10-10 18:58:02 +0000  373 bytes for ./Frameworks/Capacitor.framework/PrivacyInfo.xcprivacy
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Capacitor.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  791 bytes for ./Frameworks/Capacitor.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorStatusBar.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  1798 bytes for ./Frameworks/CapacitorStatusBar.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar ... 
+2024-10-10 18:58:02 +0000  137008 bytes for ./Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorStatusBar.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  811 bytes for ./Frameworks/CapacitorStatusBar.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorKeyboard.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  1798 bytes for ./Frameworks/CapacitorKeyboard.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard ... 
+2024-10-10 18:58:02 +0000  121456 bytes for ./Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorKeyboard.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  809 bytes for ./Frameworks/CapacitorKeyboard.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorHaptics.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  1798 bytes for ./Frameworks/CapacitorHaptics.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorHaptics.framework/CapacitorHaptics ... 
+2024-10-10 18:58:02 +0000  146176 bytes for ./Frameworks/CapacitorHaptics.framework/CapacitorHaptics
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorHaptics.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  807 bytes for ./Frameworks/CapacitorHaptics.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Cordova.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  2034 bytes for ./Frameworks/Cordova.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Cordova.framework/Cordova ... 
+2024-10-10 18:58:02 +0000  148928 bytes for ./Frameworks/Cordova.framework/Cordova
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Cordova.framework/PrivacyInfo.xcprivacy ... 
+2024-10-10 18:58:02 +0000  373 bytes for ./Frameworks/Cordova.framework/PrivacyInfo.xcprivacy
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/Cordova.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  787 bytes for ./Frameworks/Cordova.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorApp.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:02 +0000  1798 bytes for ./Frameworks/CapacitorApp.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorApp.framework/CapacitorApp ... 
+2024-10-10 18:58:02 +0000  160864 bytes for ./Frameworks/CapacitorApp.framework/CapacitorApp
+2024-10-10 18:58:02 +0000  copying file ./Frameworks/CapacitorApp.framework/Info.plist ... 
+2024-10-10 18:58:02 +0000  797 bytes for ./Frameworks/CapacitorApp.framework/Info.plist
+2024-10-10 18:58:02 +0000  copying file ./embedded.mobileprovision ... 
+2024-10-10 18:58:02 +0000  12199 bytes for ./embedded.mobileprovision
+2024-10-10 18:58:02 +0000  copying file ./Info.plist ... 
+2024-10-10 18:58:02 +0000  1416 bytes for ./Info.plist
+2024-10-10 18:58:02 +0000  copying file ./PkgInfo ... 
+2024-10-10 18:58:02 +0000  8 bytes for ./PkgInfo
+2024-10-10 18:58:02 +0000  /usr/bin/ditto exited with 0
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4be7c0; bundleID='org.cocoapods.Capacitor', path='<DVTFilePath:0x60000dbc1730:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015d10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Capacitor', executablePath='<DVTFilePath:0x60000d4cb120:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework/Capacitor'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4b8c60; bundleID='org.cocoapods.CapacitorApp', path='<DVTFilePath:0x60000db7d8f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d025db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorApp', executablePath='<DVTFilePath:0x60000d4c93e0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework/CapacitorApp'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4db2a0; bundleID='org.cocoapods.CapacitorHaptics', path='<DVTFilePath:0x60000db639c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorHaptics', executablePath='<DVTFilePath:0x60000d8c6b50:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4fb5a0; bundleID='org.cocoapods.CapacitorKeyboard', path='<DVTFilePath:0x60000d8c6c30:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d024320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorKeyboard', executablePath='<DVTFilePath:0x60000d8c6610:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4ac1e0; bundleID='org.cocoapods.CapacitorStatusBar', path='<DVTFilePath:0x60000d8c51f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015ef0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorStatusBar', executablePath='<DVTFilePath:0x60000d8c56c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d4d5080; bundleID='org.cocoapods.Cordova', path='<DVTFilePath:0x60000d8c5810:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0157c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Cordova', executablePath='<DVTFilePath:0x60000d4f66a0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework/Cordova'>', hardenedRuntime='0'>'>
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionSymbolsStep
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionAppThinningStep
+2024-10-10 18:58:02 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionArchThinningStep
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Capacitor.framework/Capacitor' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "Capacitor" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorApp.framework/CapacitorApp' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "CapacitorApp" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "CapacitorHaptics" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "CapacitorKeyboard" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "CapacitorStatusBar" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Cordova.framework/Cordova' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "Cordova" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-10 18:58:02 +0000  Archs to thin for item /Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app are ["arm64e"]
+2024-10-10 18:58:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/App' '-verify_arch' 'arm64e'
+2024-10-10 18:58:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-10 18:58:02 +0000  Skipping architecture thinning for item "App" because arch "arm64e" wasn't found
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionODRStep
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-10 18:58:02 +0000  Processing step: IDEDistributionCodesignStep
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4be7c0; bundleID='org.cocoapods.Capacitor', path='<DVTFilePath:0x60000dbc1730:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015d10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546c40; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Capacitor', executablePath='<DVTFilePath:0x60000d4cb120:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework/Capacitor'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:02 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4be7c0; bundleID='org.cocoapods.Capacitor', path='<DVTFilePath:0x60000dbc1730:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015d10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004547d80; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Capacitor', executablePath='<DVTFilePath:0x60000d4cb120:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework/Capacitor'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:02 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4be7c0; bundleID='org.cocoapods.Capacitor', path='<DVTFilePath:0x60000dbc1730:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015d10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546580; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Capacitor', executablePath='<DVTFilePath:0x60000d4cb120:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Capacitor.framework/Capacitor'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~wFVcTT
+2024-10-10 18:58:02 +0000  invoking codesign: <NSConcreteTask: 0x60000d02aa80; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~wFVcTT",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Capacitor.framework"
+)'>
+2024-10-10 18:58:02 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Capacitor.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Capacitor.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Capacitor]
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4b8c60; bundleID='org.cocoapods.CapacitorApp', path='<DVTFilePath:0x60000db7d8f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d025db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546c40; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorApp', executablePath='<DVTFilePath:0x60000d4c93e0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework/CapacitorApp'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:02 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4b8c60; bundleID='org.cocoapods.CapacitorApp', path='<DVTFilePath:0x60000db7d8f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d025db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorApp', executablePath='<DVTFilePath:0x60000d4c93e0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework/CapacitorApp'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:02 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4b8c60; bundleID='org.cocoapods.CapacitorApp', path='<DVTFilePath:0x60000db7d8f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d025db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540540; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorApp', executablePath='<DVTFilePath:0x60000d4c93e0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorApp.framework/CapacitorApp'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~xl7bji
+2024-10-10 18:58:02 +0000  invoking codesign: <NSConcreteTask: 0x60000d021130; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~xl7bji",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorApp.framework"
+)'>
+2024-10-10 18:58:02 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorApp.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorApp.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.CapacitorApp]
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4db2a0; bundleID='org.cocoapods.CapacitorHaptics', path='<DVTFilePath:0x60000db639c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546c40; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorHaptics', executablePath='<DVTFilePath:0x60000d8c6b50:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:02 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4db2a0; bundleID='org.cocoapods.CapacitorHaptics', path='<DVTFilePath:0x60000db639c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorHaptics', executablePath='<DVTFilePath:0x60000d8c6b50:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:02 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4db2a0; bundleID='org.cocoapods.CapacitorHaptics', path='<DVTFilePath:0x60000db639c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540540; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorHaptics', executablePath='<DVTFilePath:0x60000d8c6b50:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~XBzEZX
+2024-10-10 18:58:02 +0000  invoking codesign: <NSConcreteTask: 0x60000d02a490; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~XBzEZX",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorHaptics.framework"
+)'>
+2024-10-10 18:58:02 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorHaptics.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorHaptics.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.CapacitorHaptics]
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4fb5a0; bundleID='org.cocoapods.CapacitorKeyboard', path='<DVTFilePath:0x60000d8c6c30:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d024320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546c40; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorKeyboard', executablePath='<DVTFilePath:0x60000d8c6610:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:02 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4fb5a0; bundleID='org.cocoapods.CapacitorKeyboard', path='<DVTFilePath:0x60000d8c6c30:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d024320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorKeyboard', executablePath='<DVTFilePath:0x60000d8c6610:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:02 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4fb5a0; bundleID='org.cocoapods.CapacitorKeyboard', path='<DVTFilePath:0x60000d8c6c30:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d024320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540540; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorKeyboard', executablePath='<DVTFilePath:0x60000d8c6610:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~nOzSNl
+2024-10-10 18:58:02 +0000  invoking codesign: <NSConcreteTask: 0x60000d02a490; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~nOzSNl",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorKeyboard.framework"
+)'>
+2024-10-10 18:58:02 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorKeyboard.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorKeyboard.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.CapacitorKeyboard]
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4ac1e0; bundleID='org.cocoapods.CapacitorStatusBar', path='<DVTFilePath:0x60000d8c51f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015ef0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorStatusBar', executablePath='<DVTFilePath:0x60000d8c56c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:02 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:02 +0000  Entitlements for <IDEDistributionItem: 0x60000d4ac1e0; bundleID='org.cocoapods.CapacitorStatusBar', path='<DVTFilePath:0x60000d8c51f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015ef0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540540; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorStatusBar', executablePath='<DVTFilePath:0x60000d8c56c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:02 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4ac1e0; bundleID='org.cocoapods.CapacitorStatusBar', path='<DVTFilePath:0x60000d8c51f0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d015ef0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540600; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.CapacitorStatusBar', executablePath='<DVTFilePath:0x60000d8c56c0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~G6CR5n
+2024-10-10 18:58:02 +0000  invoking codesign: <NSConcreteTask: 0x60000d02a350; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~G6CR5n",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorStatusBar.framework"
+)'>
+2024-10-10 18:58:03 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorStatusBar.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorStatusBar.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.CapacitorStatusBar]
+2024-10-10 18:58:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d4d5080; bundleID='org.cocoapods.Cordova', path='<DVTFilePath:0x60000d8c5810:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0157c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000045470c0; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Cordova', executablePath='<DVTFilePath:0x60000d4f66a0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework/Cordova'>', hardenedRuntime='0'>'>: {
+}
+2024-10-10 18:58:03 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d4d5080; bundleID='org.cocoapods.Cordova', path='<DVTFilePath:0x60000d8c5810:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0157c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Cordova', executablePath='<DVTFilePath:0x60000d4f66a0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework/Cordova'>', hardenedRuntime='0'>'> are: {
+}
+2024-10-10 18:58:03 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4d5080; bundleID='org.cocoapods.Cordova', path='<DVTFilePath:0x60000d8c5810:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0157c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540540; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='(null)', teamID='94P33WPNF3', identifier='org.cocoapods.Cordova', executablePath='<DVTFilePath:0x60000d4f66a0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/Frameworks/Cordova.framework/Cordova'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~C6hcle
+2024-10-10 18:58:03 +0000  invoking codesign: <NSConcreteTask: 0x60000d02a580; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~C6hcle",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Cordova.framework"
+)'>
+2024-10-10 18:58:03 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Cordova.framework: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Cordova.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Cordova]
+2024-10-10 18:58:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d4f8a20; bundleID='com.baker.3ML', path='<DVTFilePath:0x600009a3cf00:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0254f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000045470c0; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='{
+    "application-identifier" = "94P33WPNF3.com.baker.3ML";
+    "com.apple.developer.team-identifier" = 94P33WPNF3;
+    "get-task-allow" = 1;
+}', teamID='94P33WPNF3', identifier='com.baker.3ML', executablePath='<DVTFilePath:0x600009a3cde0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/App'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "94P33WPNF3.com.baker.3ML";
+    "com.apple.developer.team-identifier" = 94P33WPNF3;
+    "get-task-allow" = 1;
+}
+2024-10-10 18:58:03 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-10 18:58:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d4f8a20; bundleID='com.baker.3ML', path='<DVTFilePath:0x600009a3cf00:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0254f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004540840; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='{
+    "application-identifier" = "94P33WPNF3.com.baker.3ML";
+    "com.apple.developer.team-identifier" = 94P33WPNF3;
+    "get-task-allow" = 1;
+}', teamID='94P33WPNF3', identifier='com.baker.3ML', executablePath='<DVTFilePath:0x600009a3cde0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/App'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "94P33WPNF3.com.baker.3ML";
+    "com.apple.developer.team-identifier" = 94P33WPNF3;
+    "get-task-allow" = 1;
+}
+2024-10-10 18:58:03 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d4f8a20; bundleID='com.baker.3ML', path='<DVTFilePath:0x600009a3cf00:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000d0254f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004546700; name='Apple Development: Eugene Baker (R8FRBD4M6V)', hash='82EE6B3047A0BDE4B006C24E255159EEBE9540A4', serialNumber='4C2C05C53904CD37E1AE882A3846585C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-26 20:06:47 +0000''>', entitlements='{
+    "application-identifier" = "94P33WPNF3.com.baker.3ML";
+    "com.apple.developer.team-identifier" = 94P33WPNF3;
+    "get-task-allow" = 1;
+}', teamID='94P33WPNF3', identifier='com.baker.3ML', executablePath='<DVTFilePath:0x600009a3cde0:'/Users/melissazgola/Library/Developer/Xcode/Archives/2024-10-10/App 10-10-24, 2.34 PM.xcarchive/Products/Applications/App.app/App'>', hardenedRuntime='0'>'> to: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~OFO00C
+2024-10-10 18:58:03 +0000  invoking codesign: <NSConcreteTask: 0x60000d02ab20; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    82EE6B3047A0BDE4B006C24E255159EEBE9540A4,
+    "--entitlements",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/entitlements~~~OFO00C",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app"
+)'>
+2024-10-10 18:58:03 +0000  codesign output: /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app: replacing existing signature
+/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app: signed app bundle with Mach-O thin (arm64) [com.baker.3ML]
+2024-10-10 18:58:03 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-10 18:58:03 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-10-10 18:58:03 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root' '/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Packages/App.ipa'
+2024-10-10 18:58:03 +0000  >>> Copying /var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root 
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  17395 bytes for ./Payload/App.app/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/App ... 
+2024-10-10 18:58:03 +0000  113056 bytes for ./Payload/App.app/App
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/AppIcon60x60@2x.png ... 
+2024-10-10 18:58:03 +0000  21705 bytes for ./Payload/App.app/AppIcon60x60@2x.png
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-10-10 18:58:03 +0000  858 bytes for ./Payload/App.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2024-10-10 18:58:03 +0000  258 bytes for ./Payload/App.app/Base.lproj/Main.storyboardc/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-snD-IY-ifK.nib ... 
+2024-10-10 18:58:03 +0000  1280 bytes for ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-snD-IY-ifK.nib
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-10-10 18:58:03 +0000  924 bytes for ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-10-10 18:58:03 +0000  258 bytes for ./Payload/App.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/config.xml ... 
+2024-10-10 18:58:03 +0000  185 bytes for ./Payload/App.app/config.xml
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/index.html ... 
+2024-10-10 18:58:03 +0000  2334 bytes for ./Payload/App.app/public/index.html
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/cordova.js ... 
+2024-10-10 18:58:03 +0000  0 bytes for ./Payload/App.app/public/cordova.js
+copying file ./Payload/App.app/public/favicon.png ... 
+2024-10-10 18:58:03 +0000  930 bytes for ./Payload/App.app/public/favicon.png
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/manifest.json ... 
+2024-10-10 18:58:03 +0000  438 bytes for ./Payload/App.app/public/manifest.json
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/cordova_plugins.js ... 
+0 bytes for ./Payload/App.app/public/cordova_plugins.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/md.transition-CTBbyNpc.js ... 
+2024-10-10 18:58:03 +0000  1070 bytes for ./Payload/App.app/public/assets/md.transition-CTBbyNpc.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/swipe-back-legacy-BYk7MoxZ.js ... 
+2024-10-10 18:58:03 +0000  6610 bytes for ./Payload/App.app/public/assets/swipe-back-legacy-BYk7MoxZ.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/input-shims-legacy-BypjDZpX.js ... 
+2024-10-10 18:58:03 +0000  4729 bytes for ./Payload/App.app/public/assets/input-shims-legacy-BypjDZpX.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/keyboard2-legacy-DKa9kHlj.js ... 
+2024-10-10 18:58:03 +0000  1404 bytes for ./Payload/App.app/public/assets/keyboard2-legacy-DKa9kHlj.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/index-legacy-DdL1hqQB.js ... 
+2024-10-10 18:58:03 +0000  371707 bytes for ./Payload/App.app/public/assets/index-legacy-DdL1hqQB.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/ios.transition-legacy-CxqLf8IJ.js ... 
+2024-10-10 18:58:03 +0000  10639 bytes for ./Payload/App.app/public/assets/ios.transition-legacy-CxqLf8IJ.js
+copying file ./Payload/App.app/public/assets/index-D8OKBhEY.js ... 
+2024-10-10 18:58:03 +0000  355580 bytes for ./Payload/App.app/public/assets/index-D8OKBhEY.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/keyboard2--n6f3Tzq.js ... 
+2024-10-10 18:58:03 +0000  1279 bytes for ./Payload/App.app/public/assets/keyboard2--n6f3Tzq.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/status-tap-legacy-B2TkQ8mC.js ... 
+2024-10-10 18:58:03 +0000  599 bytes for ./Payload/App.app/public/assets/status-tap-legacy-B2TkQ8mC.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/focus-visible-legacy-CdO5cX4I.js ... 
+2024-10-10 18:58:03 +0000  1092 bytes for ./Payload/App.app/public/assets/focus-visible-legacy-CdO5cX4I.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/index-gkcoDwAc.css ... 
+2024-10-10 18:58:03 +0000  29631 bytes for ./Payload/App.app/public/assets/index-gkcoDwAc.css
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/index9-D97Hwhnm.js ... 
+2024-10-10 18:58:03 +0000  1627 bytes for ./Payload/App.app/public/assets/index9-D97Hwhnm.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/polyfills-legacy-AYrcWy0U.js ... 
+2024-10-10 18:58:03 +0000  52169 bytes for ./Payload/App.app/public/assets/polyfills-legacy-AYrcWy0U.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/ios.transition-Cd8VdBPO.js ... 
+2024-10-10 18:58:03 +0000  11207 bytes for ./Payload/App.app/public/assets/ios.transition-Cd8VdBPO.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/input-shims-kkUWtSfW.js ... 
+2024-10-10 18:58:03 +0000  4812 bytes for ./Payload/App.app/public/assets/input-shims-kkUWtSfW.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/md.transition-legacy-BjfG-WmY.js ... 
+2024-10-10 18:58:03 +0000  1132 bytes for ./Payload/App.app/public/assets/md.transition-legacy-BjfG-WmY.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/index9-legacy-kbzIab5_.js ... 
+2024-10-10 18:58:03 +0000  1735 bytes for ./Payload/App.app/public/assets/index9-legacy-kbzIab5_.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/swipe-back-G6AQEQka.js ... 
+2024-10-10 18:58:03 +0000  6676 bytes for ./Payload/App.app/public/assets/swipe-back-G6AQEQka.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/status-tap-BrPHcasP.js ... 
+2024-10-10 18:58:03 +0000  480 bytes for ./Payload/App.app/public/assets/status-tap-BrPHcasP.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/public/assets/focus-visible-supuXXMI.js ... 
+2024-10-10 18:58:03 +0000  994 bytes for ./Payload/App.app/public/assets/focus-visible-supuXXMI.js
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Assets.car ... 
+2024-10-10 18:58:03 +0000  4567983 bytes for ./Payload/App.app/Assets.car
+copying file ./Payload/App.app/logo.png ... 
+2024-10-10 18:58:03 +0000  849526 bytes for ./Payload/App.app/logo.png
+copying file ./Payload/App.app/AppIcon76x76@2x~ipad.png ... 
+2024-10-10 18:58:03 +0000  32705 bytes for ./Payload/App.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/App.app/capacitor.config.json ... 
+2024-10-10 18:58:03 +0000  343 bytes for ./Payload/App.app/capacitor.config.json
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/Capacitor.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  2252 bytes for ./Payload/App.app/Frameworks/Capacitor.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/Capacitor.framework/native-bridge.js ... 
+2024-10-10 18:58:03 +0000  50668 bytes for ./Payload/App.app/Frameworks/Capacitor.framework/native-bridge.js
+copying file ./Payload/App.app/Frameworks/Capacitor.framework/Capacitor ... 
+2024-10-10 18:58:03 +0000  1421184 bytes for ./Payload/App.app/Frameworks/Capacitor.framework/Capacitor
+copying file ./Payload/App.app/Frameworks/Capacitor.framework/PrivacyInfo.xcprivacy ... 
+2024-10-10 18:58:03 +0000  373 bytes for ./Payload/App.app/Frameworks/Capacitor.framework/PrivacyInfo.xcprivacy
+copying file ./Payload/App.app/Frameworks/Capacitor.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  791 bytes for ./Payload/App.app/Frameworks/Capacitor.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  1798 bytes for ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar ... 
+2024-10-10 18:58:03 +0000  137280 bytes for ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar
+copying file ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  811 bytes for ./Payload/App.app/Frameworks/CapacitorStatusBar.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  1798 bytes for ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/_CodeSignature/CodeResources
+copying file ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard ... 
+2024-10-10 18:58:03 +0000  121728 bytes for ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard
+copying file ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  809 bytes for ./Payload/App.app/Frameworks/CapacitorKeyboard.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorHaptics.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  1798 bytes for ./Payload/App.app/Frameworks/CapacitorHaptics.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics ... 
+2024-10-10 18:58:03 +0000  146448 bytes for ./Payload/App.app/Frameworks/CapacitorHaptics.framework/CapacitorHaptics
+copying file ./Payload/App.app/Frameworks/CapacitorHaptics.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  807 bytes for ./Payload/App.app/Frameworks/CapacitorHaptics.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/Cordova.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  2034 bytes for ./Payload/App.app/Frameworks/Cordova.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/Cordova.framework/Cordova ... 
+2024-10-10 18:58:03 +0000  149200 bytes for ./Payload/App.app/Frameworks/Cordova.framework/Cordova
+copying file ./Payload/App.app/Frameworks/Cordova.framework/PrivacyInfo.xcprivacy ... 
+2024-10-10 18:58:03 +0000  373 bytes for ./Payload/App.app/Frameworks/Cordova.framework/PrivacyInfo.xcprivacy
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/Cordova.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  787 bytes for ./Payload/App.app/Frameworks/Cordova.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorApp.framework/_CodeSignature/CodeResources ... 
+2024-10-10 18:58:03 +0000  1798 bytes for ./Payload/App.app/Frameworks/CapacitorApp.framework/_CodeSignature/CodeResources
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Frameworks/CapacitorApp.framework/CapacitorApp ... 
+2024-10-10 18:58:03 +0000  161120 bytes for ./Payload/App.app/Frameworks/CapacitorApp.framework/CapacitorApp
+copying file ./Payload/App.app/Frameworks/CapacitorApp.framework/Info.plist ... 
+2024-10-10 18:58:03 +0000  797 bytes for ./Payload/App.app/Frameworks/CapacitorApp.framework/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/embedded.mobileprovision ... 
+2024-10-10 18:58:03 +0000  12199 bytes for ./Payload/App.app/embedded.mobileprovision
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/Info.plist ... 
+2024-10-10 18:58:03 +0000  1416 bytes for ./Payload/App.app/Info.plist
+2024-10-10 18:58:03 +0000  copying file ./Payload/App.app/PkgInfo ... 
+2024-10-10 18:58:03 +0000  8 bytes for ./Payload/App.app/PkgInfo
+2024-10-10 18:58:03 +0000  /usr/bin/ditto exited with 0
+2024-10-10 18:58:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-10-10 18:58:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-10-10 18:58:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8d0d90:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Capacitor.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8d2990:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorHaptics.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8d1f10:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorStatusBar.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8d0540:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorApp.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8af870:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/Cordova.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x60000d8d1c00:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app/Frameworks/CapacitorKeyboard.framework'>
+2024-10-10 18:58:03 +0000  IDEDistributionItem init <DVTFilePath:0x600009a4d620:'/var/folders/n2/pd6zwkkx4lq21jtd9f36q4xm0000gn/T/XcodeDistPipeline.~~~tVpkIe/Root/Payload/App.app'>
+2024-10-10 18:58:03 +0000  Processing step: IDEDistributionCreateManifestStep
